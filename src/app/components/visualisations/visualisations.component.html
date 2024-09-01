@@ -1,0 +1,2 @@
+<div *ngFor="let num of sortService.arrayToSort; let i = index" [ngStyle]="{ height: (num * 10) + 'px', backgroundColor: sortService.getColor(i,num) ,opacity:sortService.opacity}" class="bar">
+</div>

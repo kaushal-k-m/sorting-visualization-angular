@@ -1,0 +1,9 @@
+<h3><ng-content></ng-content></h3>
+<div class="info">
+    <p><b>Time Complexity:</b></p>
+    <p [innerHTML]="'Best: ' + sortingAlgorithmsComplexity[SelectedAlgo].timeComplexity.best"></p>
+    <p [innerHTML]="'Average: ' + sortingAlgorithmsComplexity[SelectedAlgo].timeComplexity.average"></p>
+    <p [innerHTML]="'Worst: ' + sortingAlgorithmsComplexity[SelectedAlgo].timeComplexity.worst"></p>
+
+    <p><b>Space Complexity:</b> {{sortingAlgorithmsComplexity[SelectedAlgo].spaceComplexity}}</p>
+</div>
