@@ -1,0 +1,15 @@
+<button class="btn-redefine" (click)="sortService.generateRandomArray(30,10,60)" [disabled]="isSortingDone">Redefine Array</button>
+<div class="sortings">
+    <div class="item" *ngFor="let sort of algorithms" [class.active]="selected_Algo === sort" (click)="selectAlgorithm(sort)" >
+        <div >{{ sort }}</div>
+    </div>
+</div>
+<div class="slider-container">
+    <input type="range" min="30" max="6000" step="10" id="slider" class="slider" value="5750" [(ngModel)]="sortService.speed" title="Speed">
+  </div>
+<button class="btn-redefine" (click)="SortArr()" [disabled]="isSortingDone" >Start</button>
+<div class="sortings" id="complexity-analysis">
+    <app-complexity-analysis [SelectedAlgo]="selected_Algo">
+        {{selected_Algo}} Complexity Analysis
+    </app-complexity-analysis>
+</div>
