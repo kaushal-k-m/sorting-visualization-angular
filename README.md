@@ -1,5 +1,5 @@
 # **Sorting Visualization** 📊
-An Angular application to visually demonstrate and compare the efficiency of various sorting algorithms like Merge Sort, Quick Sort, Bubble Sort, and Heap Sort.
+An Angular application to visually demonstrate and compare the efficiency of various sorting algorithms like Merge Sort, Quick Sort, Bubble Sort, Insertion Sort and Selection Sort.
 
 ---
 
@@ -12,7 +12,6 @@ An Angular application to visually demonstrate and compare the efficiency of var
 - [Installation](#installation)
 - [License](#license)
 - [Author Info](#author-info)
-- [Inspiration](#inspiration)
 
 ---
 
@@ -95,8 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - **LinkedIn Profile**: [@LinkedIn](https://www.linkedin.com/in/kaushal-k-m)
 
 ---
-
-## **_Inspiration_** 🌟
 This project is inspired by [Clément Mihailescu](https://www.clementmihailescu.com)
 
 ---
