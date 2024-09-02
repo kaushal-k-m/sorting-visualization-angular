@@ -32,7 +32,7 @@ This application provides a dynamic and engaging way to visualize and understand
 ---
 
 ## **_Demo Video_** 🎥
-![Sorting Visualization Demo](./assets/sorting-visualization-demo.gif)
+![Sorting Visualization Demo](./assets/live_ss.png)
 
 *Click the image above to watch the demo video.*
 
