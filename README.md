@@ -1,4 +1,4 @@
-# **Sorting Visualization** 📊
+# **Sorting Visualization** 📊 [Check Out the Live Demo!](https://kaushal-k-m.github.io/sorting-visualization-angular/#/)
 An Angular application to visually demonstrate and compare the efficiency of various sorting algorithms like Merge Sort, Quick Sort, Bubble Sort, Insertion Sort and Selection Sort.
 
 ---
