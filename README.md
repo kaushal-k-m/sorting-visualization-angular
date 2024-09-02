@@ -32,7 +32,7 @@ This application provides a dynamic and engaging way to visualize and understand
 ---
 
 ## **_Demo Video_** 🎥
-![Sorting Visualization Demo](./assets/demo.png)
+![Sorting Visualization Demo](./assets/demo.gif)
 
 *Click the image above to watch the demo video.*
 
@@ -91,7 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## **_Author Info_** 🧑‍💻
 - **GitHub Profile**: [@github](https://github.com/kaushal-k-m)
-- **LinkedIn Profile**: [@LinkedIn](https://www.linkedin.com/in/kaushal-k-m)
+- **LinkedIn Profile**: [@LinkedIn](https://www.linkedin.com/in/kaushal-k-mahajan)
 
 ---
 This project is inspired by [Clément Mihailescu](https://www.clementmihailescu.com)
